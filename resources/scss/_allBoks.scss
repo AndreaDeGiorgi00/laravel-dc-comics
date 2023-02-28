@@ -1,0 +1,29 @@
+.sfondo {
+    background-color: #303030;
+}
+
+.contenitore-comics {
+
+    .card {
+        width: calc(100% / 6 - 20px);
+        margin: 20px 0;
+        border-radius: 0;
+        background-color: #303030;
+        border: 0px;
+    }
+
+    .img-container {
+        height: 168px;
+        width: 100%;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    h5 {
+        margin: 10px 0;
+        color: white;
+    }
+}

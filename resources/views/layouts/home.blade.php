@@ -9,12 +9,14 @@
 </head>
 <body>
     @include('include.header')
-    
+
     <div class="jumbotron-box">
         <img  src="{{asset("images/jumbotron.jpg")}}">
     </div>
+
+    @yield('content')
     
 
-
+    @include('include.footer')
 </body>
 </html>
