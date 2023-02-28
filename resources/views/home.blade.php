@@ -10,6 +10,10 @@
 <body>
     @include('include.header')
     
+    <div class="jumbotron-box">
+        <img  src="{{asset("images/jumbotron.jpg")}}">
+    </div>
+    
 
 
 </body>
