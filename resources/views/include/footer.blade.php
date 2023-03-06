@@ -1,6 +1,6 @@
 <div class="full-section">
 
-        <div class="contenitore">
+        <div class=" container">
             <div class="main-footer">
                 <div class="links">
                     <div class="col-3">
@@ -60,7 +60,7 @@
         </div>
     </div>
     <div class="social-section">
-        <div class="contenitore">
+        <div class="contenitore container">
 
             <button>Sign-Up Now</button>
             <div class="socials">

@@ -4,6 +4,10 @@
 
 .contenitore-comics {
 
+    a {
+        text-decoration: none;
+    }
+
     .card {
         width: calc(100% / 6 - 20px);
         margin: 20px 0;
